@@ -1,4 +1,5 @@
-Welcome to your new dbt project!
+Welcome to my dbt project!
+    dbt Fundamentals (dbt Studio)
 
 ### Using the starter project
 
