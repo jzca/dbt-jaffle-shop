@@ -1,5 +1,6 @@
 Welcome to my dbt project!
     dbt Fundamentals (dbt Studio)
+    This demonstrates fundamental understanding of models, sources, tests, docs, and deployment in dbt.
 
 ### Using the starter project
 
